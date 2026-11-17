@@ -1,1 +1,4 @@
 step,images,minutes,note
+gold_manual,4,20,"4 ảnh gold (001,012,020,036) vẽ tay từ đầu trên Task trống gold-manual (id 28), không AI Tools; 73 box"
+batch_review,24,50,"24 ảnh batch có pre-label + 12 bẫy (pre_traps_import); 576 box máy -> 563 đối tượng sau duyệt"
+rework,8,50,"Rework sau QC vòng 1: sửa 7 bẫy lọt + 12 box < 20 px (img_018 gom thành ignore_region) trên 8 ảnh -> labels/qc_fixed.json"
