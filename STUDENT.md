@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2
 - Tài khoản GitHub: NBK1612
 - Repo bài nộp (URL): https://github.com/NBK1612/K5-L23-DAY08-2A202603191-NguyenBaoKhanh-AIPrelabel
-- Commit chốt bài (hash): <<>>
+- Commit chốt bài (hash): de8d935b9b2f9118e2db8c1441f9d85b50383798
 - Máy: Windows 11 Home, GPU NVIDIA GeForce RTX 3050 Laptop 4 GB (CUDA)
 - CVAT (Docker): v2.81.0
 
