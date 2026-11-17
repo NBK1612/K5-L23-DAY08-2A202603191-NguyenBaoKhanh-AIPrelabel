@@ -1,0 +1,6 @@
+image,object_id,error_type,reviewer,note
+img_006.jpg,,khong,Nguyễn Bảo Khánh (nháp: Claude),vòng 2: person bị che sau người đội mũ đã được vẽ (#104); các box khác đúng lớp
+img_013.jpg,,khong,Nguyễn Bảo Khánh (nháp: Claude),"vòng 2: tuk-tuk #146 three_wheeler ôm cả mui; người lái #143 và người phía sau là person riêng; taxi van car, bus, xe máy đúng"
+img_018.jpg,,khong,Nguyễn Bảo Khánh (nháp: Claude),"vòng 2: ảnh dày ~56 vật, cụm xa đã gom bằng ignore_region; không còn box < 20 px; chỉ kiểm được ở mức tổng quát, chưa kiểm từng cạnh box"
+img_026.jpg,,khong,Nguyễn Bảo Khánh (nháp: Claude),"vòng 2: ảnh đêm, bãi xe máy dày; xe gần có box riêng, cụm xa là ignore_region; chỉ kiểm được ở mức tổng quát"
+img_031.jpg,,khong,Nguyễn Bảo Khánh (nháp: Claude),"vòng 2: person #500 ôm tới đáy ảnh (chân nhìn qua nan xe), bicycle và person bên phải đúng"
